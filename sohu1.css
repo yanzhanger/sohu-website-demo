@@ -1,0 +1,339 @@
+body{
+	width:1200px;
+	height:1600px;
+    margin:0 auto;
+	border:1px solid red;
+	font-family:sans-serif;
+	font-size:13px;
+}
+
+.top{
+	width:1200px;
+	height:30px;
+	background-color:B51924;
+}
+
+.souhu{
+	width:160px;
+	height:90px;
+	margin-left:10px;
+	float:left;
+}
+
+.biaoti{
+	font-size:20px;
+	margin-left:278px;
+	color:FFFDFA;
+	float:left;
+}
+
+.app{
+	width:70px;
+	height:30px;
+	font-size:15px;
+	margin-left:265px;
+    float:left;
+}
+.top font{
+	margin-top:4px;
+}
+
+.denglu{
+	width:82px;
+	height:30px;
+	font-size:15px;
+	float:right;
+	text-align:center;
+	border-left:1px solid silver;
+}
+
+a{
+	text-decoration:none;
+	color:black;
+}
+
+/*搜索栏*/
+.sousuo{
+	width:1200px;
+	height:90px;
+}
+
+.sousuolan{
+	width:550px;
+	height:90px;
+	float:left;
+	margin-left:80px;
+}
+.sousuolan img{
+	margin-top:23px;
+}
+
+.souhuhao{
+	width:92px;
+	height:90px;
+	margin-left:90px;
+	float:left;
+}
+.souhuhao img{
+	margin-top:32px;
+}
+.sousuo1{
+	margin-left:35px;
+	margin-top:-22px;
+	float:left;
+}
+
+.sougou{
+	width:110px;
+	height:90px;
+	float:left;
+}
+.sougou img{
+	margin-top:32px;
+}
+
+.souhuyouxiang{
+	width:108px;
+	height:90px;
+	float:left;
+}
+.souhuyouxiang img{
+	margin-top:32px;
+}
+
+/*分类栏*/
+.fenlei{
+	width:1180px;
+	height:75px;
+	margin-left:10px;
+	float:left;
+	border-top:1px solid silver;
+	border-bottom:1px solid silver;
+}
+
+.liebiao1{
+	width:160px;
+	height:75px;
+	margin-left:0;
+	float:left;
+	border-right:1px solid silver;
+}
+
+li{
+
+	float:left;
+	line-height:25px;
+	margin-left:20px;
+}
+
+.biaoji{
+	padding:0px;
+	padding:0px;
+	list-style:none;
+}
+
+.liebiao2{
+	width:170px;
+	height:75px;
+	margin-left:0;
+	float:left;
+	border-right:1px solid silver;
+}
+
+.liebiao3{
+	width:160px;
+	height:75px;
+	margin-left:0;
+	float:right;
+	border-right:1px solid silver;
+}
+
+/*广告*/
+.ad1{
+	width:1180px;
+	height:120px;
+	float:left;
+	margin-left:10px;
+}
+.ad1 img{
+	margin-top:18px;
+}
+
+/*第一大框*/
+.firstbox{
+	width:1180px;
+	height:1165px;
+	margin-left:10px;
+	float:left;
+	/*background-color:pink;*/
+	/*border:1px solid gray;*/
+}
+/*左边广告栏*/
+.leftad{
+	width:322px;
+	height:1165px;
+	float:left;
+	/*background-color:blue;*/
+}
+
+.fivead{
+	width:322px;
+	height:570px;
+	float:left;
+	margin-top:20px;
+	/*background-color:silver;*/
+}
+.smallad{
+	width:155px;
+	height:170px;
+	margin-top:10px;
+	float:left;
+	/*background-color:yellow;*/
+}
+#smallad1{
+	margin-left:11px;
+}
+
+.leftshipin1{
+	width:322px;
+	height:300px;
+	float:left;
+	/*background-color:red;*/
+}
+	
+.jujiao{
+    width:322px;
+	height:15px;
+	margin-top:10px;
+	float:left;
+}
+.jujiao1{
+    text-align:center;
+	width:55px;
+	float:left;
+	border-right:1px solid silver;
+}
+
+.leftshipin2{
+	width:322px;
+	height:250px;
+	float:left;
+	/*background-color:silver;*/
+}
+
+.xiaoshipin{
+	width:322px;
+	height:105px;
+	margin-top:10px;
+}
+
+/*中间新闻栏*/
+.center{
+	width:558px;
+	height:1165px;
+	float:left;
+	/*background-color:blue;*/
+	font-size:16px;
+}
+	
+.center li{
+	line-height:30px;
+}
+
+.xinwen{
+	width:560px;
+	height:185px;
+	/*background-color:silver;*/
+}
+
+.xinwen1{
+	width:560px;
+	height:140px;
+	/*background-color:silver;*/
+}
+/*右边广告栏*/
+.rightad{
+	width:300px;
+	height:1165px;
+	float:left;
+	/*background-color:red;*/
+}
+.rightbiaoti1{
+	width:55px;
+	height:25px;
+	float:left;
+	font-size:16px;
+	/*background-color:blue;*/
+	margin-left:2px;
+}
+.rightbiaoti2{
+	width:40px;
+	height:18px;
+	float:left;
+	font-size:10px;
+	margin-left:180px;
+    /*background-color:blue;*/
+}
+
+.rightgezi{
+	width:290px;
+	height:98px;
+	float:left;
+	margin-top:10px;
+	border:1px solid silver;
+	/*background-color:silver;*/
+}
+.rightgezi1{
+    width:290px;
+	height:20px;
+	margin-top:10px;
+	float:left;
+}
+.rightgezi2{
+    text-align:center;
+	width:65px;
+	float:left;
+	margin-left:30px;
+	border-right:1px solid silver;
+}
+.rightgezi3{
+	width:270px;
+	height:50px;
+	float:left;
+	margin-left:15px;
+	margin-top:12px;
+	font-size:16px;
+}
+
+.jiuguanggao{
+	width:300px;
+	height:250px;
+	float:left;
+}
+
+.rightwenzi{
+	width:300px;
+	height:400px;
+	float:left;
+	margin-top:10px;
+	background-color:F9F9F9;
+}
+.rightwenzi1{
+	width:270px;
+	height:35px;
+	float:left;
+	margin-left:15px;
+	margin-top:15px;
+	/*background-color:pink;*/
+}
+.rightwenzi2{
+	width:270px;
+	height:50px;
+	float:left;
+	margin-left:15px;
+	margin-top:10px;
+	font-size:14px;
+	/*background-color:pink;*/
+}	
+
+
